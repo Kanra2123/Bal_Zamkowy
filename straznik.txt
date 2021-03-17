@@ -1,0 +1,6 @@
+: St¢j! Kim jeste˜? (Podaj imie kt¢rego chcesz u¾ywa† w grze)
+: Poka¾ swoje zaproszenie!
+ 1. *pokazujesz zaproszenie*
+ 2. Moje zaproszenie to nie twoja sprawa
+: Bez zaproszenia nie wejdziesz
+: Zapraszam

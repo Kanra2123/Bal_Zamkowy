@@ -1,0 +1,25 @@
+*Id¥c dalej, widzisz widocznie nie zadowolon¥, osamotnion¥ szlachciank©.*
+ 1. Podchodzisz
+ 2. Ignorujesz
+*Szlachcianka widz¥c ci©, mierzy ci© wzrokiem*
+*Szlachcianka mimo wszystko zauwa¾a ci©, i podchodzi*
+: Witam pana. Czy nie widziaˆ pan mo¾e mojego m©¾a?
+ 1. Tak, widziaˆem
+ 2. Niestety nie widziaˆem
+Jestem jego ¾on¥, ale najwyra«niej zapomniaˆ ¾e to ze mn¥ tu przybyˆ. Czy zechciaˆ by pan dotrzyma† mi towarzystwa zamiast niego?
+ 1. Ale¾ oczywi˜cie moja pani. Mo¾e ma pani ochot© zataäczy†?
+ 2. Niestety wielce si© spiesz©. Z przykro˜ci¥ musz© odm¢wi†
+ 3. Nie mam czasu na pani problemy. Prosz© da† mi spok¢j
+: Dzi©kuj© panu. Ju¾ my˜laˆam ¾e ten wiecz¢r sp©dz© caˆkowicie zapomniana, ale dzi©ki paäskiej dobroci, wiecz.¢r ten wydaje si© uratowany!
+*Kobieta daje si© poprowadzi† na parkiet, i zaczynacie taäczy†*
+: Co pana sprowadza na ten bal? Nie jest pan staˆym bywalcem kr¢lewskich bal¢w 
+ 1. *Milczysz*
+ 2. *Wyja˜niasz caˆ¥ spraw©*
+ 3. To moje prywatne sprawy. Nie chiaˆ bym o nich rozpowiada†. Prosz© o wybaczenie
+*Kobieta patrzy na ciebie nie zadowolona, nie pr¢buj¥c wi©cej rozpoczyna† rozmowy. Taäczycie dalej w milczeniu, po czym tak ¾e w milczeniu rozdzielacie si©*
+*Kobieta patrzy na ciebie ze zrozumieniem, i uwa¾nie przysˆuchuje si© twojej wypowiedzi. Po usˆyszeniu caˆej historii, daje ci kilka cennych rad, i obiecuje zadba† o to by kr¢l usˆyszaˆ o tobie kilka pozytywnych plotek. Po kilku piosenkach rozstajecie si© w przyjacielskiej atmosferze*
+*Kobieta wygl¥da na ura¾on¥. Taäczy z tob¥ jedynie do koäca piosenki, po czym odchodzi nie zadowolona*
+: C¢¾ za szkoda. Mam nadziej© ¾e jeszcze b©dzie dane nam si© spotka†
+*Po tych sˆowach odchodzi w stron© fontanny z p¥czem, szukaj¥c kogo˜ innego do rozmowy*
+: C¢¾ za nietakt! Nigdy jeszcze nie spotkaˆam si© z takim brakiem szacunku!
+*Oburzona odwraca si© i odchodzi w stron© fontanny z p¥czem, szukaj¥c kogo˜ innego do rozmowy*
